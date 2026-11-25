@@ -1,13 +1,13 @@
 {
-  "name": "i-have-adhd",
-  "version": "0.3.0",
-  "description": "ADHD-friendly output shaping for Codex: action first, numbered steps, no tangents, and visible progress.",
+  "name": "cof-i-have-adhd",
+  "version": "1.0.0",
+  "description": "COF fork of i-have-adhd: ADHD-friendly, COF-workflow output shaping (PROTO v1.1, Vietnamese founder briefs, evidence-over-claims). Action first, numbered steps, no tangents.",
   "author": {
-    "name": "Ayoub G.",
-    "url": "https://github.com/ayghri"
+    "name": "mrd-bdsmetro",
+    "url": "https://github.com/mrd-bdsmetro"
   },
-  "homepage": "https://github.com/ayghri/i-have-adhd",
-  "repository": "https://github.com/ayghri/i-have-adhd",
+  "homepage": "https://github.com/mrd-bdsmetro/i-have-adhd",
+  "repository": "https://github.com/mrd-bdsmetro/i-have-adhd",
   "license": "MIT",
   "keywords": [
     "adhd",
@@ -18,19 +18,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "I Have ADHD",
-    "shortDescription": "Action-first output for ADHD readers",
-    "longDescription": "Shape Codex responses for an ADHD reader by leading with the next action, numbering multi-step work, suppressing tangents, restating state, and making progress visible.",
-    "developerName": "Ayoub G.",
+    "displayName": "COF I Have ADHD",
+    "shortDescription": "Action-first, COF-workflow output shaping for ADHD readers",
+    "longDescription": "ADHD-friendly output shaping adapted for the COF workflow: action first, numbered steps, PROTO v1.1 for agents, Vietnamese briefs for the founder, evidence over claims.",
+    "developerName": "mrd-bdsmetro",
     "category": "Productivity",
     "capabilities": [
       "Instructions"
     ],
-    "websiteURL": "https://github.com/ayghri/i-have-adhd",
+    "websiteURL": "https://github.com/mrd-bdsmetro/i-have-adhd",
     "defaultPrompt": [
-      "Use i-have-adhd for this task.",
+      "Use cof-i-have-adhd for this task.",
       "Make this answer action-first and easy to execute.",
-      "Review this response for ADHD-friendly structure."
+      "Review this response for ADHD-friendly, COF-shaped structure."
     ],
     "brandColor": "#2563EB",
     "composerIcon": "./logo.png",
