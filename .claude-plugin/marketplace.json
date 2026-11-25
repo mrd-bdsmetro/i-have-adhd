@@ -1,14 +1,14 @@
 {
   "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
-  "name": "i-have-adhd",
-  "description": "Shape Claude Code output for an ADHD reader. Action-first, numbered steps, no tangents.",
+  "name": "cof-i-have-adhd",
+  "description": "COF fork of i-have-adhd: ADHD-friendly, COF-workflow output shaping (PROTO v1.1, Vietnamese founder briefs, evidence-over-claims). Action first, numbered steps, no tangents.",
   "owner": {
-    "name": "Ayoub G."
+    "name": "mrd-bdsmetro"
   },
   "plugins": [
     {
-      "name": "i-have-adhd",
-      "description": "Action-first, ADHD-friendly output shaping for Claude Code.",
+      "name": "cof-i-have-adhd",
+      "description": "COF fork of i-have-adhd: ADHD-friendly, COF-workflow output shaping (PROTO v1.1, Vietnamese founder briefs, evidence-over-claims). Action first, numbered steps, no tangents.",
       "source": "./",
       "category": "productivity"
     }

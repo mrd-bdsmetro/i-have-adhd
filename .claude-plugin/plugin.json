@@ -1,9 +1,9 @@
 {
-  "name": "i-have-adhd",
-  "version": "0.3.0",
-  "description": "Shape Claude Code output for an ADHD reader: lead with the next action, number steps, suppress tangents, restate state, make wins visible.",
+  "name": "cof-i-have-adhd",
+  "version": "1.0.0",
+  "description": "COF fork of i-have-adhd: ADHD-friendly, COF-workflow output shaping (PROTO v1.1, Vietnamese founder briefs, evidence-over-claims). Action first, numbered steps, no tangents.",
   "author": {
-    "name": "Ayoub G.",
-    "url": "https://github.com/ayghri"
+    "name": "mrd-bdsmetro",
+    "url": "https://github.com/mrd-bdsmetro/i-have-adhd"
   }
 }

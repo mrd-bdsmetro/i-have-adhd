@@ -1,6 +1,6 @@
 {
-  "name": "i-have-adhd",
-  "version": "0.3.0",
-  "description": "ADHD-friendly output shaping for Qwen Code: action first, numbered steps, no tangents, and visible progress.",
+  "name": "cof-i-have-adhd",
+  "version": "1.0.0",
+  "description": "COF fork of i-have-adhd: ADHD-friendly, COF-workflow output shaping (PROTO v1.1, Vietnamese founder briefs, evidence-over-claims). Action first, numbered steps, no tangents.",
   "skills": "skills"
 }

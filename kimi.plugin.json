@@ -1,12 +1,12 @@
 {
-  "name": "i-have-adhd",
-  "version": "0.3.0",
-  "description": "Shape output for a reader with ADHD: lead with the next action, number multi-step work, restate state across turns, suppress tangents, give specific time estimates, make wins visible.",
+  "name": "cof-i-have-adhd",
+  "version": "1.0.0",
+  "description": "COF fork of i-have-adhd: ADHD-friendly, COF-workflow output shaping (PROTO v1.1, Vietnamese founder briefs, evidence-over-claims). Action first, numbered steps, no tangents.",
   "license": "MIT",
-  "homepage": "https://github.com/ayghri/i-have-adhd",
+  "homepage": "https://github.com/mrd-bdsmetro/i-have-adhd",
   "skills": "./skills/",
   "interface": {
-    "displayName": "I Have ADHD",
-    "shortDescription": "ADHD-friendly output shaping for Kimi Code CLI"
+    "displayName": "COF I Have ADHD",
+    "shortDescription": "Action-first, COF-workflow output shaping for ADHD readers"
   }
 }
